@@ -1,0 +1,1 @@
+requirements are provided automatically by the PasswordManager.py's check_packages function
